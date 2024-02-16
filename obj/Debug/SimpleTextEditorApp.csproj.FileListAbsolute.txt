@@ -1,0 +1,13 @@
+C:\Users\syfsfn\source\repos\SimpleTextEditorApp\bin\Debug\SimpleTextEditorApp.exe.config
+C:\Users\syfsfn\source\repos\SimpleTextEditorApp\bin\Debug\SimpleTextEditorApp.exe
+C:\Users\syfsfn\source\repos\SimpleTextEditorApp\bin\Debug\SimpleTextEditorApp.pdb
+C:\Users\syfsfn\source\repos\SimpleTextEditorApp\obj\Debug\SimpleTextEditorApp.csproj.AssemblyReference.cache
+C:\Users\syfsfn\source\repos\SimpleTextEditorApp\obj\Debug\SimpleTextEditorApp.Properties.Resources.resources
+C:\Users\syfsfn\source\repos\SimpleTextEditorApp\obj\Debug\SimpleTextEditorApp.csproj.GenerateResource.cache
+C:\Users\syfsfn\source\repos\SimpleTextEditorApp\obj\Debug\SimpleTextEditorApp.csproj.CoreCompileInputs.cache
+C:\Users\syfsfn\source\repos\SimpleTextEditorApp\obj\Debug\SimpleTextEditorApp.exe
+C:\Users\syfsfn\source\repos\SimpleTextEditorApp\obj\Debug\SimpleTextEditorApp.pdb
+C:\Users\syfsfn\source\repos\SimpleTextEditorApp\obj\Debug\SimpleTextEditorApp.Login.resources
+C:\Users\syfsfn\source\repos\SimpleTextEditorApp\obj\Debug\SimpleTextEditorApp.NewUser.resources
+C:\Users\syfsfn\source\repos\SimpleTextEditorApp\obj\Debug\SimpleTextEditorApp.TextEditor.resources
+C:\Users\syfsfn\source\repos\SimpleTextEditorApp\obj\Debug\SimpleTextEditorApp.About.resources
